@@ -1,0 +1,14 @@
+# k3gxx-user 6.0.1 MMB29K G900HXXS1CQD2 release-keys
+- manufacturer: samsung
+- platform: exynos5
+- codename: k3g
+- flavor: k3gxx-user
+- release: 6.0.1
+- id: MMB29K
+- incremental: G900HXXS1CQD2
+- tags: release-keys
+- fingerprint: samsung/k3gxx/k3g:6.0.1/MMB29K/G900HXXS1CQD2:user/release-keys
+- is_ab: false
+- brand: samsung
+- branch: k3gxx-user-6.0.1-MMB29K-G900HXXS1CQD2-release-keys
+- repo: samsung_k3g_dump
